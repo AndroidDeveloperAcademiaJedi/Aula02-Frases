@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Aula02-Frases</string>
+    <string name="frase01">Bem-vindo ao mundo do android</string>
+    <string name="frase02">Bem-vindo ao mundo móvel</string>
+</resources>

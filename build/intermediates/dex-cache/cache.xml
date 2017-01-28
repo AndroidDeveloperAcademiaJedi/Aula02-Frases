@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/alexsoaresdesiqueira/Documents/Academia Jedi/Aulas de Android/Aula02-Frases/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/alexsoaresdesiqueira/Documents/Academia Jedi/Aulas de Android/Aula02-Frases/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_ff8c375537f8d4182dd19171de26e2219f59acfa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexsoaresdesiqueira/Documents/Academia Jedi/Aulas de Android/Aula02-Frases/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/alexsoaresdesiqueira/Documents/Academia Jedi/Aulas de Android/Aula02-Frases/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_c9b96f0c4fe62e5ff0d871c291ffdc4feb27218b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexsoaresdesiqueira/Documents/Academia Jedi/Aulas de Android/Aula02-Frases/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/alexsoaresdesiqueira/Documents/Academia Jedi/Aulas de Android/Aula02-Frases/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_9c66e64335debbda97d9264fbbd8a5c5f64f2fd7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexsoaresdesiqueira/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/alexsoaresdesiqueira/Documents/Academia Jedi/Aulas de Android/Aula02-Frases/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_15fe6dd1f34c1ffee4b77b5ab5eda7f781325483/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexsoaresdesiqueira/Documents/Academia Jedi/Aulas de Android/Aula02-Frases/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1df2272f54c88e3c914caac2216f18a1fd952717">
+        <dex dex="/Users/alexsoaresdesiqueira/Documents/Academia Jedi/Aulas de Android/Aula02-Frases/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ab5a4e68eb6041b42d01b97316db5e045eb03aad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexsoaresdesiqueira/Documents/Academia Jedi/Aulas de Android/Aula02-Frases/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/alexsoaresdesiqueira/Documents/Academia Jedi/Aulas de Android/Aula02-Frases/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_77afeceeaa2ea8468d082152ca281b3853b8502f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexsoaresdesiqueira/Documents/Academia Jedi/Aulas de Android/Aula02-Frases/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e09ebef8c1b9d017fbfd30db3bf8aad09dddd1c">
+        <dex dex="/Users/alexsoaresdesiqueira/Documents/Academia Jedi/Aulas de Android/Aula02-Frases/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a235f9e0882ba928800de7647d49e83068943cac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexsoaresdesiqueira/Documents/Academia Jedi/Aulas de Android/Aula02-Frases/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/alexsoaresdesiqueira/Documents/Academia Jedi/Aulas de Android/Aula02-Frases/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_2c8a1166d8f04ad6ee0522b9043a1e4f67ba5020/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexsoaresdesiqueira/Documents/Academia Jedi/Aulas de Android/Aula02-Frases/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/alexsoaresdesiqueira/Documents/Academia Jedi/Aulas de Android/Aula02-Frases/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_ae23a99ea031214c7cc0147456e771ad143358a5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexsoaresdesiqueira/Documents/Academia Jedi/Aulas de Android/Aula02-Frases/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/alexsoaresdesiqueira/Documents/Academia Jedi/Aulas de Android/Aula02-Frases/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_8ad3a3f7af1d1517e88350c90fdeb3809b673ce1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexsoaresdesiqueira/Documents/Academia Jedi/Aulas de Android/Aula02-Frases/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/alexsoaresdesiqueira/Documents/Academia Jedi/Aulas de Android/Aula02-Frases/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_3aa6ee8b0811b2b74f00cb96a0a48d159d6f6416/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexsoaresdesiqueira/Documents/Academia Jedi/Aulas de Android/Aula02-Frases/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/alexsoaresdesiqueira/Documents/Academia Jedi/Aulas de Android/Aula02-Frases/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_df529635f077eabba32dffb83c206c55d41d0422/classes.dex" />
+    </item>
+
+</items>
